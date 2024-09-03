@@ -1,7 +1,8 @@
 !['@nolan' text](images/nolan.png)
 AI-powered discord chat-bot works with the help of LLMs such as ChatGPT and Gemini (Google's generative AI model), and with features that no other chat-bot provides.
 
-![/hello command preview](images/hello.png)
+> ![/hello command preview](images/hello.png)
+> Preview of `/hello` command.
 
 ## 🌴 Features
 - 💫 **Actions**, you can make the bot do things while chatting such as playing rock paper scissor by just saying agout it.
