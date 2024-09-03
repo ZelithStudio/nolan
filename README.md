@@ -1,6 +1,5 @@
 !['@nolan' text](images/nolan.png)
-
-<img src="/images/alert.png" width="182x" align="center">
+![Alert](images/alert.png)
 AI-powered discord chat-bot works with the help of LLMs such as ChatGPT and Gemini (Google's generative AI model), and with features that no other chat-bot provides.
 
 > ![/hello command preview](images/hello.png)
